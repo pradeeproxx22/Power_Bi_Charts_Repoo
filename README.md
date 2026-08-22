@@ -1,2 +1,3 @@
 # Power_Bi_Charts_Repoo
-Power bi repository is present chart
+
+Power bi charts created by myself
